@@ -1,0 +1,14 @@
+h3, h2{
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 22px;
+}
+h2 {
+    margin-top: 18%;
+    color: blue;
+}
+.submit {
+    width: 200px;
+    margin-bottom: 20px;
+}
